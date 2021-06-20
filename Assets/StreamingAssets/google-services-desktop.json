@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "287978112141",
+    "project_id": "testing-cc692",
+    "storage_bucket": "testing-cc692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287978112141:android:47f66b7c524b9ca2058ec4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CardboardandFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287978112141-56fd097b0pka1841bn70lgrvt5pl9c9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeUFYVe6Biezu-TFQwchAGvOWvsaCaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287978112141-56fd097b0pka1841bn70lgrvt5pl9c9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287978112141-8a4bpnm1h7hbi5bun8nj5cjpbnp7hhdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.CardboardandFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
